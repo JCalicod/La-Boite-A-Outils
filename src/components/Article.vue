@@ -12,7 +12,14 @@
         <div class="container">
             <h2 class="text-center mb-5">{{ article.title }}</h2>
             <hr class="my-4">
-            <div class="article" v-html="article.content"></div>
+            <div class="display-flex">
+                <div class="illustration">
+                    <img :src="article.illustration" :alt="article.title">
+                </div>
+                <div class="content">
+                    <div class="article-content" v-html="article.content"></div>
+                </div>
+            </div>
         </div>
         </section>
   </div>
@@ -139,32 +146,39 @@ export default {
         overflow: visible;
     }
 
-    .article >>> .card {
-        position: relative;
-        display: -ms-flexbox;
+    .display-flex {
         display: flex;
-        -ms-flex-direction: column;
-        flex-direction: column;
-        min-width: 0;
-        word-wrap: break-word;
-        background-color: #fff;
-        background-clip: border-box;
-        border: 1px solid rgba(0,0,0,.125);
-        border-radius: .25rem;
+        flex-direction: row;
+        flex-wrap: wrap;
     }
 
-    .article >>> .card-header {
-        background-color: #aec6cf;
-        color: #fff;
-        padding: .75rem 1.25rem;
-        margin-bottom: 0;
-        border-bottom: 1px solid rgba(0,0,0,.125);
+    .illustration {
+        width: 50%;
+        display: flex;
     }
 
-    .article >>> .card-body {
-        -ms-flex: 1 1 auto;
-        flex: 1 1 auto;
-        min-height: 1px;
-        padding: 1.25rem;
+    .illustration > img {
+        border-radius: 20px;
+        height: 400px;
+        width: auto;
+        max-width: 100%;
+        margin: auto;
+    }
+
+    .content {
+        width: 50%;
+        padding: 20px;
+        line-height: 24px;
+    }
+
+    .article-content >>> p {
+        margin-bottom: 30px;
+    }
+
+    .article-content >>> .article-subtitle {
+        color: #89c19e;
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 10px;
     }
 </style>
