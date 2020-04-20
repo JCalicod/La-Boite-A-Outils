@@ -1,0 +1,77 @@
+/* Motricité fine */
+
+.card .activity-bg-img.pate-a-modeler {
+  background: url('../img/motricite-fine/pate-a-modeler.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+.card .activity-bg-img.pate-a-sel {
+  background: url('../img/motricite-fine/pate-a-sel.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+
+/* Motricité globale */
+
+.card .activity-bg-img.jeux-de-quilles {
+  background: url('../img/motricite-globale/jeux-de-quilles.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+
+/* Espace */
+
+.card .activity-bg-img.tangram {
+  background: url('../img/espace/tangram.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+
+/* Temps */
+
+.card .activity-bg-img.chronologie {
+  background: url('../img/temps/chronologie.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+
+/* Attention */
+
+.card .activity-bg-img.fabrication-jeux {
+  background: url('../img/attention/fabrication-jeux.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+
+/* Graphisme */
+
+.card .activity-bg-img.papier-a-gratter {
+  background: url('../img/graphisme/papier-a-gratter.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+
+/* Schéma Corporel */
+
+.card .activity-bg-img.memo-mimes {
+  background: url('../img/schema-corporel/memo-mimes.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}
+
+/* Sensorialité */
+
+.card .activity-bg-img.sock-game {
+  background: url('../img/sensorialite/sock-game.jpg');
+  background-size: cover;
+  background-position: top center;
+  border-bottom: 1px solid rgba(0,0,0,.075);
+}

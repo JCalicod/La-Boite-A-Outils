@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+          "id": "Home",
+          "title": "Nos propositions", 
+          "subtitle": "Idées d'activités diverses pour petits et grands.", 
+          "description": "",
+          "articles": []
+        },
+        {
+          "id": "MF",
+          "title": "Motricité fine", 
+          "subtitle": "Jeux autour de la Motricité fine.",
+          "description": "Utilisation des muscles des mains et des doigts permettant l’accès à un mouvement précis en vue de manipuler des petits objets, de découper, d’écrire...",
+          "articles": []
+        }, 
+        {
+          "id": "MG",
+          "title": "Motricité globale", 
+          "subtitle": "Jeux autour de la Motricité globale.", 
+          "description": "Organisation du corps pour réaliser un geste ou un mouvement. Elle est composée à la fois des coordinations et de l’équilibre.",
+          "articles": []
+        },
+        {
+          "id": "Espace",
+          "title": "Espace", 
+          "subtitle": "Jeux autour de l'Espace.", 
+          "description": "L’enfant développe une mémoire spatiale qui lui permet d’intégrer les différentes notions, d’organiser son espace et de se repérer.",
+          "articles": []
+        },
+        {
+          "id": "Temps",
+          "title": "Temps", 
+          "subtitle": "Jeux autour du Temps.", 
+          "description": "C'est une notion qui inclue une composante personnelle. « A chacun son rythme ». Mais cette notion admet également une composante sociale qui passe par l’adaptation.",
+          "articles": []
+        },
+        {
+          "id": "Attention",
+          "title": "Attention", 
+          "subtitle": "Jeux autour de l'Attention.", 
+          "description": " L’attention est nécessaire dans la plupart de nos tâches quotidiennes. Elle permet de se concentrer sur le travail, de mémoriser, de comprendre etc..",
+          "articles": []
+        },
+        {
+          "id": "Graphisme",
+          "title": "Graphisme", 
+          "subtitle": "Jeux autour du Graphisme.", 
+          "description": "Les premiers pas vers l’écriture se font à travers le graphisme. Fortement lié à la motricité fine, il peut être intéressant de laisser l’enfant manipuler au maximum.",
+          "articles": []
+        },
+        {
+          "id": "SC",
+          "title": "Schéma corporel", 
+          "subtitle": "Jeux autour du Schéma corporel.", 
+          "description": "Le schéma corporel est la connaissance des différentes parties du corps (tête, bras, yeux, jambes, ..) et la maîtrise de celui-ci dans l’espace.",
+          "articles": []
+        },
+        {
+          "id": "Tonus",
+          "title": "Tonus", 
+          "subtitle": "Jeux autour du Tonus.", 
+          "description": "Le tonus est très en lien avec les émotions. Il s’agit de la tension des muscles dans le corps au cours de actions mais aussi au repos.",
+          "articles": []
+        },
+        {
+          "id": "Sensorialite",
+          "title": "Sensorialité", 
+          "subtitle": "Jeux autour de la Sensorialité.", 
+          "description": "L’exploration des différents sens permet à l’enfant de mieux comprendre son corps et le monde qui l’entoure.",
+          "articles": []
+        }
+      ]
+  }

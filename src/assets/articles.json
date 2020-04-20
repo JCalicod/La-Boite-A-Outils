@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": 1, 
+            "category_id": "MF", 
+            "title": "Pâte à Sel Maison", 
+            "background": "img/motricite-fine/pate-a-sel.jpg", 
+            "content": "<div class='card'><div class='card-header'><span class='fas fa-scroll'></span> Les Recettes</div><div class='card-body'><p><b>Pâte à Sel Maison</b><br><br>- Préparer <u>2 verres de farine</u>, <u>1 verre de sel fin</u> et <u>1 verre d’eau tiède</u>.<br>- Verser la farine, le sel et l’eau dans un récipient et mélanger à la cuillère.<br>- Une fois les ingrédients bien mélangés, continuer avec les mains.<br>- La pâte à sel doit former une boule de pâte bien souple et elle ne doit pas coller aux doigts. Vous pouvez rajouter un peu de farine si elle colle.<br>- Il est possible d’ajouter du colorant alimentaire (pensez à séparer la pâte si vous souhaitez plusieurs couleurs)<br>- Il est l’heure de passer à l’étape de modelage.<br>- Une fois le modèle terminé, mettre au four 1 heure (ou plus) à 100°.<br>- Quand l’objet a refroidi, il sera possible de le peindre.</p><p><b>Pâte à sel sans cuisson</b><br><br>- 2 doses de farine<br>- 1 dose de sel<br>- 1 dose d’eau tiède<br>- 3 cuillères à soupe d’huile végétale<br>Laisser sécher 24h au moins après la création</p></div></div>"
+        }, 
+        {
+            "id": 2, 
+            "category_id": "MG", 
+            "title": "Jeux de Quilles", 
+            "background": "img/motricite-globale/jeux-de-quilles.jpg"
+        }, 
+        {
+            "id": 3, 
+            "category_id": "Espace", 
+            "title": "Tangram", 
+            "background": "img/espace/tangram.jpg"
+        }, 
+        {
+            "id": 4, 
+            "category_id": "Temps", 
+            "title": "Chronologie d'images",
+            "background": "img/temps/chronologie.jpg"
+        }, 
+        {
+            "id": 5, 
+            "category_id": "Attention", 
+            "title": "Lynx",
+            "background": "img/attention/lynx.jpg"
+        }, 
+        {
+            "id": 6, 
+            "category_id": "Graphisme", 
+            "title": "Papier à Gratter",
+            "background": "img/graphisme/papier-a-gratter.jpg"
+        }, 
+        {
+            "id": 7, 
+            "category_id": "SC", 
+            "title": "Memo Mimes",
+            "background": "img/schema-corporel/memo-mimes.jpg"
+        }, 
+        {
+            "id": 8, 
+            "category_id": "Tonus", 
+            "title": "Méditation",
+            "background": "img/tonus/meditation.jpg"
+        }, 
+        {
+            "id": 9, 
+            "category_id": "Sensorialite", 
+            "title": "Sock Game",
+            "background": "img/sensorialite/sock-game.jpg"
+        }
+    ]
+}
