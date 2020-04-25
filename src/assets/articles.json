@@ -12,49 +12,112 @@
             "id": 2, 
             "category_id": "MG", 
             "title": "Jeux de Quilles", 
-            "background": "img/motricite-globale/jeux-de-quilles.jpg"
+            "background": "img/motricite-globale/jeux-de-quilles.jpg", 
+            "illustration": "img/motricite-globale/jeux-de-quilles-illustration.png",
+            "content": "<p><div class='article-subtitle'>PRESENTATION DU JEU</div>Il est possible de fabriquer ses quilles soi-même. Pour cela, il vous faut conserver autant de bouteilles en plastique que vous souhaitez de quilles (bouteilles de lait ou d’eau par exemple).<br>- Décorez à votre guise les bouteilles avec de la peinture, des gommettes… Si la bouteille est en plastique, vous pouvez l’entourer d’une feuille de papier pour pouvoir la peindre. Vous pouvez également mettre la peinture dans la bouteille et les brasser pour bien répartir la peinture.<br>- Remplissez à ¼  les bouteilles de sable, de semoule, de sel, afin de les lester.<br>- Collez une balle de ping-pong au-dessus afin que les quilles soient hermétiques. Peignez la balle de ping-pong.</p><p><div class='article-subtitle'>LES REGLES DU JEU</div>- Essayer de faire tomber toutes les quilles en un nombre de tirs limité.<br>- Faire tomber toutes les quilles en variant les balles : plus petites, plus grandes, plus molles, plus lourdes…<br>- Ne faire tomber qu’un certain nombre de quille.<br>- Faire tomber les quilles les yeux fermer.<br>- Vous pouvez ajouter des numéros sur les quilles et choisir quelle quille vous souhaitez viser.<br>- Il est également possible d’associer les numéros à des points et ainsi de comptabiliser les points totaux de chacun.</p>"
         }, 
         {
             "id": 3, 
             "category_id": "Espace", 
             "title": "Tangram", 
-            "background": "img/espace/tangram.jpg"
+            "background": "img/espace/tangram.jpg",
+            "illustration": "img/espace/tangram-illustration.jpg",
+            "content": "<p><div class='article-subtitle'>INSTRUCTIONS</div>Si vous possédez un set de tangram, il vous suffit de demander à l’enfant de reproduire les différents modèles. Pour plus de difficultés, pour pouvez lui présenter les modèles en noir et blanc.</p><p>Si vous ne possédez pas de set, vous pouvez le fabriquer ou l’imprimer.</p><p>Vous pouvez demander à votre enfant d’essayer de reconstituer le carré, ou de placer toutes les pièces dans un rectangle que vous avez tracé.</p>", 
+            "carousel": [
+                "img/espace/carousel/tangram-1.jpg", 
+                "img/espace/carousel/tangram-2.jpg"
+            ]
         }, 
         {
             "id": 4, 
             "category_id": "Temps", 
             "title": "Chronologie d'images",
-            "background": "img/temps/chronologie.jpg"
+            "background": "img/temps/chronologie.jpg",
+            "illustration": "img/temps/chronologie-illustration.jpg", 
+            "content": "<p><div class='article-subtitle'>INSTRUCTIONS</div>L’objectif est de pouvoir remettre des images dans l’ordre chronologique. On peut demander à l’enfant ce qu’il observe et ce qui l’a amené à placer les images dans cet ordre.</p><p>On peut également proposer à l’enfant de créer lui-même son histoire à remettre dans l’ordre ou de représenter les différents moments de sa journée.</p>", 
+            "carousel": [
+                "img/temps/carousel/chronologie-1.jpg", 
+                "img/temps/carousel/chronologie-2.jpg", 
+                "img/temps/carousel/chronologie-3.jpg", 
+                "img/temps/carousel/chronologie-4.jpg", 
+                "img/temps/carousel/chronologie-5.jpg"
+            ] 
         }, 
         {
             "id": 5, 
             "category_id": "Attention", 
             "title": "Lynx",
-            "background": "img/attention/lynx.jpg"
+            "background": "img/attention/lynx.jpg", 
+            "illustration": "img/attention/lynx-illustration.jpg", 
+            "content": "<p><div class='article-subtitle'>FABRICATION DU JEU</div>Imprimer les différentes pièces<br><a href='downloads/attention/plateau_lynx.pdf' target='_blank'>Télécharger le plateau</a><br><a href='downloads/attention/cartes_lynx.pdf' target='_blank'>Télécharger les images</a><br><br>Découper et plastifier si possible les images et le plateau.<br>Il est également possible de fabriquer soi même le jeu en dessinant différentes images en deux exemplaires puis en collant un exemplaire sur les feuilles faisant office de plateau. Plus il y a d’images et plus le jeu est difficile.</p><p><div class='article-subtitle'>REGLES DU JEU</div>- Assembler les pièces du plateau de jeu.<br>- Placer les images dans un bol.<br>- Les joueurs piochent une image chacun et la posent face cachée devant eux.<br>- Au top, chacun retourne son image et la recherche sur le plateau.<br>- Le premier à retrouver l’image identique remporte un point. Il peut garder son image. Les autres remettent l’image dans le bol.<br>- Le premier joueur à 10 points a gagné.<br>Pour plus de difficulté, il est possible d’augmenter le nombre d’images à chercher par joueur.</p>"
         }, 
         {
             "id": 6, 
             "category_id": "Graphisme", 
             "title": "Papier à Gratter",
-            "background": "img/graphisme/papier-a-gratter.jpg"
+            "background": "img/graphisme/papier-a-gratter.jpg", 
+            "illustration": "img/graphisme/papier-a-gratter-illustration.jpg", 
+            "content": "<p><div class='article-subtitle'>LES INGREDIENTS</div>Pour la recette pour fabriquer son papier à gratter soi-même, il vous faudra :<br><br>- Une feuille de papier épaisse<br>- Des crayons de couleurs pastel<br>- De la peinture acrylique noire mat<br>- Du liquide vaisselle<br>- Un cure-dent</p><p><div class='article-subtitle'>LA PREPARATION</div>- Colorier entièrement la feuille de plusieurs couleurs.<br>- Verser dans un récipient 1 dose de liquide vaisselle pour 6 de peinture.<br>- Mélanger.<br>- Peindre entièrement la feuille colorée. Le noir doit être bien opaque.<br>- Laisser sécher 30 mn. Si le noir n’est pas opaque, repasser une couche.<br>- Le papier à gratter est prêt ! Vous pouvez réaliser des dessins à l’aide du cure-dent.<br><br>Il est possible de réaliser de jolis dessins colorés. Le fond noir favorise la discrimination visuelle et permet de faire ressortir le dessin. Cette activité permet de travailler la précision du tracé de manière ludique. Elle amène l’enfant à exprimer sa créativité.</p>"
         }, 
         {
             "id": 7, 
             "category_id": "SC", 
             "title": "Memo Mimes",
-            "background": "img/schema-corporel/memo-mimes.jpg"
+            "background": "img/schema-corporel/memo-mimes.jpg", 
+            "illustration": "img/schema-corporel/memo-mimes-illustration.jpg", 
+            "content": "<p><div class='article-subtitle'>LES REGLES</div>Mettre un exemplaire de chaque carte de côté (une carte de chaque animal par exemple).<br>Mélangez les cartes et posez les au centre de la table. Le premier joueur pioche une carte sans la montrer aux autres. Il doit alors imiter ce qu’il voit sur la carte (un animal, une posture, une action). Les autres doivent deviner et montrer la carte qu’ils pensent être la bonne (parmi les cartes laissées de côté au début). Une fois l’épreuve réussie, le joueur pose sa carte face cachée devant lui. C’est au joueur suivant de faire deviner la carte suivante.<br><br>Au deuxième tour, le joueur pioche une nouvelle carte. Il doit la faire deviner aux autres joueurs après avoir reproduit le mime de la 1ere carte (sans la regarder). Il peut s’agir deux fois de suite du même mime si le joueur tombe sur des cartes identiques. Les autres joueurs, après avoir deviné le mime, pourront retourner la 1ere carte afin de vérifier l’image qui s’y trouve. Le joueur peut alors poser sa 2e carte face cachée à côté de la 1e. A chaque tour, il posera sa nouvelle carte à la suite, dans l’ordre chronologique.</p><p><div class='article-subtitle'>LE BUT DU JEU</div>Si un joueur ne parvient pas à faire deviner sa carte, il repose la carte en dessous du paquet.<br><br>Si la vérification des cartes cachées met en avant une ou plusieurs erreurs, les cartes qui n’ont pas été mémorisées par le joueur sont reposées sous la pioche.<br><br>C’est à vous de fixez votre objectif selon la difficulté des cartes et la capacité de mémorisation de chacun. Par exemple, me jeu peut se terminer lorsqu’un joueur parvient à accumuler (et donc mémoriser) 5 cartes devant lui.</p><p><div class='article-subtitle'>LE MATERIEL</div>Vous aurez besoin de différentes cartes en plusieurs exemplaires, que vous aurez aupréalable imprimées ou fabriquées (en dessinant par exemple). A savoir que plus il y a de cartes différentes, plus le jeu est difficile. Vous pouvez donc sélectionner seulement quelques cartes des sets présentés ci-dessous pour simplifier le jeu.</p>"
         }, 
         {
             "id": 8, 
             "category_id": "Tonus", 
             "title": "Méditation",
-            "background": "img/tonus/meditation.jpg"
+            "background": "img/tonus/meditation.jpg", 
+            "illustration": "img/tonus/meditation-illustration.jpg", 
+            "content": "<p><div class='article-subtitle'>EXPLICATIONS</div>Pour permettre à votre enfant de prendre du temps pour lui, mais aussi de mettre de côté les émotions négatives, vous pouvez lui proposer un exercice de méditation, à reprendre régulièrement afin de se l’approprier. La méditation peut être proposée dès la maternelle. Dans la méditation comme dans la relaxation, la respiration a toute son importance. Se recentrer sur sa respiration permet de se concentrer sur les ressentis corporels et retrouver un état de calme. L’enfant apprend ainsi à observer ce qu’il se passe dans son corps.<br><br>Ces exercices de méditation peuvent être réalisés quotidiennement afin de les aider à gérer leurs émotions et à augmenter leurs capacités de concentration. Ils peuvent également être utilisés pour trouver le sommeil.<br><br>Il faut du temps pour assimiler une méthode de méditation. Il est donc normal que l’enfant se montre peu attentif dès la première séance.</p><p><div class='article-subtitle'>CONSIGNES</div>- Aménager un lieu calme et confortable pour l’enfant.<br>- Lui proposer de se mettre dans la position de son choix.<br>- Réalisez avec lui 3 grandes respirations avant de commencer.<br><br>Après la séance, invitez votre enfant à verbaliser ses ressentis, à vous dire comment il a vécu la séance, ce qu’il a aimé, moins aimé…</p>"
         }, 
         {
             "id": 9, 
             "category_id": "Sensorialite", 
             "title": "Sock Game",
-            "background": "img/sensorialite/sock-game.jpg"
+            "background": "img/sensorialite/sock-game.jpg", 
+            "illustration": "img/sensorialite/sock-game-illustration.jpg", 
+            "content": "<p><div class='article-subtitle'>MATERIEL</div>- Autant de grandes chaussettes que de joueurs<br>- Différents objets de petite taille. Chaque objet doit être en autant d’exemplaires que le nombre de joueurs.<br>- Un carton, une clé et une attache parisienne. Si vous n’en avez pas, des feuilles de papier vous suffiront.</p><p><div class='article-subtitle'>REGLES</div>Le but du jeu est de retrouver l’objet qui a été désigné le plus vite possible dans la chaussette.<br><br>- Placer un exemplaire de chaque objet dans chaque chaussette.<br>- Fabriquer une roue à l’aide du carton, de la clé et de l’attache parisienne.<br><br>Si vous ne possédez pas le matériel nécessaire, il est possible de préparer des petits papiers pour un tirage au sort.<br><br>- Ecrire les noms des objets sur la roue ou sur les papiers.<br>- Chacun son tour, un joueur fait tourner la roue ou pioche un papier. Une fois l’objet dévoilé, les joueurs doivent retrouver l’objet correspondant dans leur chaussette sans regarder et le plus rapidement possible. Il remporte alors le point et peut garder son objet devant lui. Les autres joueurs placent leur objet près de la roue ou du sac de pioche.<br>- Recommencer jusqu’à ce qu’il ne reste plus qu’un objet dans la chaussette.<br>- Le gagnant est celui qui a pu garder le plus grand nombre d’objets.<br><br>N’hésitez pas à varier les textures et les tailles des objets.</p>"
+        }, 
+        {
+            "id": 10, 
+            "category_id": "MF", 
+            "title": "Pâte à Modeler", 
+            "background": "img/motricite-fine/pate-a-modeler.jpg", 
+            "illustration": "img/motricite-fine/pate-a-modeler-illustration.jpg",
+            "content": "<p><div class='article-subtitle'>PATE A MODELER, LES INGREDIENTS</div>- 1 tasse de farine<br>- ½ tasse de sel<br>- 1 cuillère à café d’huile végétale<br>- 2 cuillères à café de bicarbonate de soude ou de levure chimique<br>- 1 tasse d’eau chaude<br>- Colorant alimentaire</p><p><div class='article-subtitle'>PATE A MODELER, LA RECETTE</div>- Verser la farine, le sel et le bicarbonate dans un grand bol ou dans la casserole et mélanger. Ajouter éventuellement les colorants en poudre.<br>- Ajouter l’eau et l’huile en remuant vigoureusement pour éviter les grumeaux. Ajouter éventuellement les colorants liquides.<br>- Verser le mélange dans une casserole et mettre la casserole sur un feu doux sans cesser de remuer jusqu'à ce que la pâte commence à se décoller.<br>- Retirer du feu et pétrir la pâte sur table avec les mains. La pâte à modeler est terminée lorsqu'elle est bien souple et la couleur uniforme.</p>"
+        }, 
+        {
+            "id": 11, 
+            "category_id": "Home", 
+            "title": "Pâte à Sel Maison", 
+            "background": "img/motricite-fine/pate-a-sel.jpg", 
+            "illustration": "img/motricite-fine/pate-a-sel-illustration.png",
+            "content": "<p><div class='article-subtitle'>PATE A SEL MAISON, LES ETAPES</div>- Préparer <u>2 verres de farine</u>, <u>1 verre de sel fin</u> et <u>1 verre d’eau tiède</u>.<br>- Verser la farine, le sel et l’eau dans un récipient et mélanger à la cuillère.<br>- Une fois les ingrédients bien mélangés, continuer avec les mains.<br>- La pâte à sel doit former une boule de pâte bien souple et elle ne doit pas coller aux doigts. Vous pouvez rajouter un peu de farine si elle colle.<br>- Il est possible d’ajouter du colorant alimentaire (pensez à séparer la pâte si vous souhaitez plusieurs couleurs)<br>- Il est l’heure de passer à l’étape de modelage.<br>- Une fois le modèle terminé, mettre au four 1 heure (ou plus) à 100°.<br>- Quand l’objet a refroidi, il sera possible de le peindre.</p><p><div class='article-subtitle'>PATE A SEL SANS CUISSON, LES ETAPES</div>- 2 doses de farine<br>- 1 dose de sel<br>- 1 dose d’eau tiède<br>- 3 cuillères à soupe d’huile végétale<br><br>Laisser sécher 24h au moins après la création</p>"
+        }, 
+        {
+            "id": 12, 
+            "category_id": "Home", 
+            "title": "Jeux de Quilles", 
+            "background": "img/motricite-globale/jeux-de-quilles.jpg", 
+            "illustration": "img/motricite-globale/jeux-de-quilles-illustration.png",
+            "content": "<p><div class='article-subtitle'>PRESENTATION DU JEU</div>Il est possible de fabriquer ses quilles soi-même. Pour cela, il vous faut conserver autant de bouteilles en plastique que vous souhaitez de quilles (bouteilles de lait ou d’eau par exemple).<br>- Décorez à votre guise les bouteilles avec de la peinture, des gommettes… Si la bouteille est en plastique, vous pouvez l’entourer d’une feuille de papier pour pouvoir la peindre. Vous pouvez également mettre la peinture dans la bouteille et les brasser pour bien répartir la peinture.<br>- Remplissez à ¼  les bouteilles de sable, de semoule, de sel, afin de les lester.<br>- Collez une balle de ping-pong au-dessus afin que les quilles soient hermétiques. Peignez la balle de ping-pong.</p><p><div class='article-subtitle'>LES REGLES DU JEU</div>- Essayer de faire tomber toutes les quilles en un nombre de tirs limité.<br>- Faire tomber toutes les quilles en variant les balles : plus petites, plus grandes, plus molles, plus lourdes…<br>- Ne faire tomber qu’un certain nombre de quille.<br>- Faire tomber les quilles les yeux fermer.<br>- Vous pouvez ajouter des numéros sur les quilles et choisir quelle quille vous souhaitez viser.<br>- Il est également possible d’associer les numéros à des points et ainsi de comptabiliser les points totaux de chacun.</p>"
+        }, 
+        {
+            "id": 13, 
+            "category_id": "Home", 
+            "title": "Tangram", 
+            "background": "img/espace/tangram.jpg",
+            "illustration": "img/espace/tangram-illustration.jpg",
+            "content": "<p><div class='article-subtitle'>INSTRUCTIONS</div>Si vous possédez un set de tangram, il vous suffit de demander à l’enfant de reproduire les différents modèles. Pour plus de difficultés, pour pouvez lui présenter les modèles en noir et blanc.</p><p>Si vous ne possédez pas de set, vous pouvez le fabriquer ou l’imprimer.</p><p>Vous pouvez demander à votre enfant d’essayer de reconstituer le carré, ou de placer toutes les pièces dans un rectangle que vous avez tracé.</p>", 
+            "carousel": [
+                "img/espace/carousel/tangram-1.jpg", 
+                "img/espace/carousel/tangram-2.jpg"
+            ]
         }
     ]
 }

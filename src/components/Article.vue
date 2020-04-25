@@ -20,6 +20,13 @@
                     <div class="article-content" v-html="article.content"></div>
                 </div>
             </div>
+            <div v-if="article.carousel">
+                <div class="article-subtitle text-center mt-5">ILLUSTRATIONS</div>
+                <div class="carousel" :style="carouselStyle(article.carousel)">
+                    <div class="previous" @click="previous(article.carousel)">‹</div>
+                    <div class="next" @click="next(article.carousel)">›</div>
+                </div>
+            </div>
         </div>
         </section>
   </div>
@@ -28,6 +35,11 @@
 <script>
 export default {
   name: 'Category', 
+  data: () => {
+      return {
+          carouselPos: 0
+      }
+  },
   computed: {
       article() {
         return this.getArticle();
@@ -64,6 +76,27 @@ export default {
           }
 
           return {};
+      }, 
+      carouselStyle: function(carousel) {
+          return {
+              backgroundImage: "url(" + carousel[this.carouselPos] + ")"
+          }
+      }, 
+      previous: function(carousel) {
+          if (this.carouselPos > 0) {
+            this.carouselPos--;
+          }
+          else {
+              this.carouselPos = carousel.length - 1;
+          }
+      }, 
+      next: function(carousel) {
+          if (this.carouselPos < (carousel.length - 1)) {
+            this.carouselPos++;
+          }
+          else {
+              this.carouselPos = 0;
+          }
       }
   }
 }
@@ -159,8 +192,8 @@ export default {
 
     .illustration > img {
         border-radius: 20px;
-        height: 400px;
-        width: auto;
+        height: auto;
+        width: 80%;
         max-width: 100%;
         margin: auto;
     }
@@ -171,11 +204,51 @@ export default {
         line-height: 24px;
     }
 
+    .carousel {
+        width: 700px;
+        height: 500px;
+        margin: auto;
+        margin-top: 20px;
+        border-radius: 20px;
+        background-size: contain !important;
+        background-repeat: no-repeat !important;
+        background-position: center !important;
+        position: relative;
+    }
+
+    .carousel .previous, .carousel .next {
+        font-size: 100px;
+        position: absolute;
+        top: 160px;
+        color: #aec6cf;
+        cursor: pointer;   
+    }
+
+    .carousel .previous:hover, .carousel .next:hover {
+        color: #4f7c8c;
+    }
+
+    .carousel .previous {
+        left: 10px;
+    }
+
+    .carousel .next {
+        right: 10px;
+    }
+
+    .mx-auto {
+        margin: auto;
+    }
+
+    .mt-5 {
+        margin-top: 50px;
+    }
+
     .article-content >>> p {
         margin-bottom: 30px;
     }
 
-    .article-content >>> .article-subtitle {
+    .article-content >>> .article-subtitle, .article-subtitle {
         color: #89c19e;
         font-weight: bold;
         font-size: 20px;
