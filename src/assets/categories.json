@@ -5,6 +5,7 @@
           "title": "Nos propositions", 
           "subtitle": "Idées d'activités diverses pour petits et grands.", 
           "description": "",
+          "quotidien": "",
           "articles": []
         },
         {
@@ -12,6 +13,7 @@
           "title": "Motricité fine", 
           "subtitle": "Jeux autour de la Motricité fine.",
           "description": "Utilisation des muscles des mains et des doigts permettant l’accès à un mouvement précis en vue de manipuler des petits objets, de découper, d’écrire...",
+          "quotidien": "<b>Au quotidien :</b> La motricité fine, c’est l’utilisation des muscles des mains et des doigts permettant l’accès à un mouvement précis en vue de manipuler des petits objets, de découper, d’écrire... Certaines actions du quotidien permettent à l’enfant d’expérimenter et d’affiner leur motricité fine, par exemple à travers des activités comme la cuisine (casser des œufs, mélanger, malaxer), étendre le linge, plier le linge, faire du bricolage. Il est important de laisser la possibilité à l’enfant de manipuler au maximum.",
           "articles": []
         }, 
         {
@@ -19,6 +21,7 @@
           "title": "Motricité globale", 
           "subtitle": "Jeux autour de la Motricité globale.", 
           "description": "Organisation du corps pour réaliser un geste ou un mouvement. Elle est composée à la fois des coordinations et de l’équilibre.",
+          "quotidien": "<b>Au quotidien :</b> En courant dans le jardin, en jouant au ballon, en faisant du vélo, en dansant, l’enfant développe ses habiletés motrices ainsi que son équilibre et sa force musculaire. Il apprend à s’adapter à son environnement. Il est important d’inciter l’enfant à faire les choses seul pour qu’il découvre lui-même ses capacités.",
           "articles": []
         },
         {
@@ -26,6 +29,7 @@
           "title": "Espace", 
           "subtitle": "Jeux autour de l'Espace.", 
           "description": "L’enfant développe une mémoire spatiale qui lui permet d’intégrer les différentes notions, d’organiser son espace et de se repérer.",
+          "quotidien": "<b>Au quotidien :</b> Les jeux d’encastrement pour les petits leur permettent de prendre conscience concrètement du volume des objets. Il est important de mettre des mots sur les distances, les tailles, pour que l’enfant puisse s’en imprégner. Des jeux simples comme « Jacques a dit » permettent s’aborder différentes notions (se mettre sous une table, aller derrière la porte…). Lui demander de ranger une pièce peut être une manière de l’amener à s’organiser. Plier des vêtements en décortiquant les étapes, mettre le couvert, faire des puzzles sont autant d’activités qui font travailler l’organisation spatiale à votre enfant.",
           "articles": []
         },
         {
@@ -33,6 +37,7 @@
           "title": "Temps", 
           "subtitle": "Jeux autour du Temps.", 
           "description": "C'est une notion qui inclue une composante personnelle. « A chacun son rythme ». Mais cette notion admet également une composante sociale qui passe par l’adaptation.",
+          "quotidien": "<b>Au quotidien :</b> Rappeler à votre enfant le jour, l’heure ou la saison lui permettra d’acquérir les notions essentielles pour se repérer dans le temps. Il est également possible de mettre en place un emploi du temps qui favorisera l’anticipation. La chronologie peut être travaillée, par exemple, à travers une recette ou par l’observation dans le jardin des étapes de la croissance d’une plante. Il est important de garder un rythme de vie, même en dehors des périodes scolaires.",
           "articles": []
         },
         {
@@ -40,6 +45,7 @@
           "title": "Attention", 
           "subtitle": "Jeux autour de l'Attention.", 
           "description": " L’attention est nécessaire dans la plupart de nos tâches quotidiennes. Elle permet de se concentrer sur le travail, de mémoriser, de comprendre etc..",
+          "quotidien": "<b>Au quotidien :</b> En proposant à l’enfant des exercices de yoga par exemple, l’enfant devient peu à peu maître de ses émotions. Cela lui permet de mettre de côté toutes les stimulations extérieures pour se concentrer sur le travail demandé. Des mandalas sont également un bon support pour développer l’attention. Pour favoriser la concentration d’un enfant en difficulté, il est important de ne lui demander qu’une chose à la fois. Une salle calme et bien rangée constitue un cadre optimal.",
           "articles": []
         },
         {
@@ -47,6 +53,7 @@
           "title": "Graphisme", 
           "subtitle": "Jeux autour du Graphisme.", 
           "description": "Les premiers pas vers l’écriture se font à travers le graphisme. Fortement lié à la motricité fine, il peut être intéressant de laisser l’enfant manipuler au maximum.",
+          "quotidien": "",
           "articles": []
         },
         {
@@ -54,6 +61,7 @@
           "title": "Schéma corporel", 
           "subtitle": "Jeux autour du Schéma corporel.", 
           "description": "Le schéma corporel est la connaissance des différentes parties du corps (tête, bras, yeux, jambes, ..) et la maîtrise de celui-ci dans l’espace.",
+          "quotidien": "<b>Au quotidien :</b> L’enfant doit pouvoir nommer les différentes parties de son corps (selon l’âge). S’il n’y parvient pas, il est possible de l’aider en chantant des comptines sur le corps et en rappelant régulièrement les membres utilisés pendant une action.",
           "articles": []
         },
         {
@@ -61,6 +69,7 @@
           "title": "Tonus", 
           "subtitle": "Jeux autour du Tonus.", 
           "description": "Le tonus est très en lien avec les émotions. Il s’agit de la tension des muscles dans le corps au cours des actions mais aussi au repos.",
+          "quotidien": "<b>Au quotidien :</b> Être à l’écoute du tonus, c’est être à l’écoute des émotions. Pour aider l’enfant à comprendre et à gérer ses émotions, il est important de pouvoir l’aider à mettre des mots dessus. On peut également lui demander de décrire ce qu’il ressent dans son corps. Identifier une émotion peut lui permettre de trouver des solutions pour y faire face. Par exemple, s’il se sent en colère, l’enfant peut mettre en place les outils qu’il aura appris pour se calmer (la respiration par exemple).",
           "articles": []
         },
         {
@@ -68,6 +77,7 @@
           "title": "Sensorialité", 
           "subtitle": "Jeux autour de la Sensorialité.", 
           "description": "L’exploration des différents sens permet à l’enfant de mieux comprendre son corps et le monde qui l’entoure.",
+          "quotidien": "<b>Au quotidien :</b> L’enfant expérimente quotidiennement ses différents sens : la vue, le toucher, l’ouïe, le goût, l’odorat et la proprioception (sens qui permet de ressentir son corps dans le mouvement, de tenir en équilibre, en lien avec l’appareil vestibulaire). Pour favoriser cette expérimentation, vous pouvez l’amener à malaxer une pâte avec ses mains lors d’un atelier cuisine, faire de la peinture avec ses mains, marcher pieds nus, l’amener à prendre conscience des différentes sensations que procure la nourriture en dehors du goût (odeur, texture…) lorsqu’il mange...",
           "articles": []
         }
       ]
