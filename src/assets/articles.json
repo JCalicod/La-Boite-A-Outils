@@ -78,7 +78,21 @@
             "title": "Méditation",
             "background": "img/tonus/meditation.jpg", 
             "illustration": "img/tonus/meditation-illustration.jpg", 
-            "content": "<p><div class='article-subtitle'>EXPLICATIONS</div>Pour permettre à votre enfant de prendre du temps pour lui, mais aussi de mettre de côté les émotions négatives, vous pouvez lui proposer un exercice de méditation, à reprendre régulièrement afin de se l’approprier. La méditation peut être proposée dès la maternelle. Dans la méditation comme dans la relaxation, la respiration a toute son importance. Se recentrer sur sa respiration permet de se concentrer sur les ressentis corporels et retrouver un état de calme. L’enfant apprend ainsi à observer ce qu’il se passe dans son corps.<br><br>Ces exercices de méditation peuvent être réalisés quotidiennement afin de les aider à gérer leurs émotions et à augmenter leurs capacités de concentration. Ils peuvent également être utilisés pour trouver le sommeil.<br><br>Il faut du temps pour assimiler une méthode de méditation. Il est donc normal que l’enfant se montre peu attentif dès la première séance.</p><p><div class='article-subtitle'>CONSIGNES</div>- Aménager un lieu calme et confortable pour l’enfant.<br>- Lui proposer de se mettre dans la position de son choix.<br>- Réalisez avec lui 3 grandes respirations avant de commencer.<br><br>Après la séance, invitez votre enfant à verbaliser ses ressentis, à vous dire comment il a vécu la séance, ce qu’il a aimé, moins aimé…</p>"
+            "content": "<p><div class='article-subtitle'>EXPLICATIONS</div>Pour permettre à votre enfant de prendre du temps pour lui, mais aussi de mettre de côté les émotions négatives, vous pouvez lui proposer un exercice de méditation, à reprendre régulièrement afin de se l’approprier. La méditation peut être proposée dès la maternelle. Dans la méditation comme dans la relaxation, la respiration a toute son importance. Se recentrer sur sa respiration permet de se concentrer sur les ressentis corporels et retrouver un état de calme. L’enfant apprend ainsi à observer ce qu’il se passe dans son corps.<br><br>Ces exercices de méditation peuvent être réalisés quotidiennement afin de les aider à gérer leurs émotions et à augmenter leurs capacités de concentration. Ils peuvent également être utilisés pour trouver le sommeil.<br><br>Il faut du temps pour assimiler une méthode de méditation. Il est donc normal que l’enfant se montre peu attentif dès la première séance.</p><p><div class='article-subtitle'>CONSIGNES</div>- Aménager un lieu calme et confortable pour l’enfant.<br>- Lui proposer de se mettre dans la position de son choix.<br>- Réalisez avec lui 3 grandes respirations avant de commencer.<br><br>Après la séance, invitez votre enfant à verbaliser ses ressentis, à vous dire comment il a vécu la séance, ce qu’il a aimé, moins aimé…</p>", 
+            "carousel": [
+                "img/tonus/carousel/meditation-1.jpg", 
+                "img/tonus/carousel/meditation-2.jpg", 
+                "img/tonus/carousel/meditation-3.jpg", 
+                "img/tonus/carousel/meditation-4.jpg", 
+                "img/tonus/carousel/meditation-5.jpg"
+            ], 
+            "carousellink": [
+                "https://www.youtube.com/watch?v=WnxOoifQ398", 
+                "https://www.youtube.com/watch?v=CWRAe2b_ZhI", 
+                "https://youtu.be/Hz_0gKnRMkk", 
+                "https://www.youtube.com/watch?v=7cDYebXHs7o&feature=youtu.be", 
+                "https://youtu.be/wlr9C_UgOBs"
+            ]
         }, 
         {
             "id": 9, 
