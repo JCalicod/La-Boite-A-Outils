@@ -22,7 +22,15 @@
             </div>
             <div v-if="article.carousel">
                 <div class="article-subtitle text-center mt-5">ILLUSTRATIONS</div>
-                <div class="carousel" :style="carouselStyle(article.carousel)">
+                <div class="carousel">
+                    <div class="carousel-img display-flex">
+                        <a v-if="article.carousellink" v-bind:href="article.carousellink[carouselPos]" target="_blank">
+                            <img :src="article.carousel[carouselPos]">
+                        </a>
+                        <a v-else href="#">
+                            <img :src="article.carousel[carouselPos]">
+                        </a>
+                    </div>
                     <div class="previous" @click="previous(article.carousel)">‹</div>
                     <div class="next" @click="next(article.carousel)">›</div>
                 </div>
@@ -214,6 +222,19 @@ export default {
         background-repeat: no-repeat !important;
         background-position: center !important;
         position: relative;
+    }
+
+    .carousel .carousel-img {
+        height: 100%;
+    }
+
+    .carousel .carousel-img a {
+        margin: auto;
+    }
+
+    .carousel .carousel-img img {
+        max-width: 500px;
+        max-height: 450px;
     }
 
     .carousel .previous, .carousel .next {
