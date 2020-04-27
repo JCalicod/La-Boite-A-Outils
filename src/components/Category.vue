@@ -11,9 +11,10 @@
       <section class="album">
       <div class="container">
         <h2 class="text-center mb-5">{{ category.title }}</h2>
-        <p class="lead" v-if="category.description.length > 0">
-          <span class="fas fa-info-circle"></span> {{ category.description }}
-        </p>
+        <div class="lead" v-if="category.description.length > 0">
+          <span class="fas fa-info-circle"></span> {{ category.description }}<br><br>
+          <div v-html="category.quotidien"></div>
+        </div>
           <hr class="my-4">
         <div class="row" v-if="category.articles.length > 0">
           <div class="col-md-4" v-for="article in category.articles" :key="article.id">
@@ -112,7 +113,7 @@ export default {
         font-size: 2.5rem;
     }
 
-    .banner p.lead {
+    .banner .lead {
         color: #aec6cf !important;
     }
 
