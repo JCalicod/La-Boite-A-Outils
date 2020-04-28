@@ -25,8 +25,10 @@
             "content": "<p><div class='article-subtitle'>INSTRUCTIONS</div>Si vous possédez un set de tangram, il vous suffit de demander à l’enfant de reproduire les différents modèles. Pour plus de difficultés, pour pouvez lui présenter les modèles en noir et blanc.</p><p>Si vous ne possédez pas de set, vous pouvez le fabriquer ou l’imprimer.</p><p>Vous pouvez demander à votre enfant d’essayer de reconstituer le carré, ou de placer toutes les pièces dans un rectangle que vous avez tracé.</p>", 
             "carousel": [
                 "img/espace/carousel/tangram-1.jpg", 
-                "img/espace/carousel/tangram-2.jpg"
-            ]
+                "img/espace/carousel/tangram-2.jpg", 
+                "img/espace/carousel/tangram-3.png"
+            ], 
+            "carousel_title": "Tangram et modèles"
         }, 
         {
             "id": 4, 
@@ -41,7 +43,8 @@
                 "img/temps/carousel/chronologie-3.jpg", 
                 "img/temps/carousel/chronologie-4.jpg", 
                 "img/temps/carousel/chronologie-5.jpg"
-            ] 
+            ], 
+            "carousel_title": "Histoires"
         }, 
         {
             "id": 5, 
@@ -70,7 +73,8 @@
                 "img/schema-corporel/carousel/memo-mimes-1.jpg", 
                 "img/schema-corporel/carousel/memo-mimes-2.jpg", 
                 "img/schema-corporel/carousel/memo-mimes-3.jpg"
-            ]
+            ], 
+            "carousel_title": "Sets de cartes"
         }, 
         {
             "id": 8, 
@@ -92,7 +96,8 @@
                 "https://youtu.be/Hz_0gKnRMkk", 
                 "https://www.youtube.com/watch?v=7cDYebXHs7o&feature=youtu.be", 
                 "https://youtu.be/wlr9C_UgOBs"
-            ]
+            ], 
+            "carousel_title": "Méditations"
         }, 
         {
             "id": 9, 
@@ -135,8 +140,10 @@
             "content": "<p><div class='article-subtitle'>INSTRUCTIONS</div>Si vous possédez un set de tangram, il vous suffit de demander à l’enfant de reproduire les différents modèles. Pour plus de difficultés, pour pouvez lui présenter les modèles en noir et blanc.</p><p>Si vous ne possédez pas de set, vous pouvez le fabriquer ou l’imprimer.</p><p>Vous pouvez demander à votre enfant d’essayer de reconstituer le carré, ou de placer toutes les pièces dans un rectangle que vous avez tracé.</p>", 
             "carousel": [
                 "img/espace/carousel/tangram-1.jpg", 
-                "img/espace/carousel/tangram-2.jpg"
-            ]
+                "img/espace/carousel/tangram-2.jpg", 
+                "img/espace/carousel/tangram-3.png"
+            ], 
+            "carousel_title": "Tangram et modèles"
         }
     ]
 }
