@@ -21,7 +21,7 @@
                 </div>
             </div>
             <div v-if="article.carousel">
-                <div class="article-subtitle text-center mt-5">ILLUSTRATIONS</div>
+                <div class="article-subtitle text-center mt-5">{{ article.carousel_title }}</div>
                 <div class="carousel">
                     <div class="carousel-img display-flex">
                         <a v-if="article.carousellink" v-bind:href="article.carousellink[carouselPos]" target="_blank">
