@@ -6,7 +6,24 @@
             "title": "Pâte à Sel Maison", 
             "background": "img/motricite-fine/pate-a-sel.jpg", 
             "illustration": "img/motricite-fine/pate-a-sel-illustration.png",
-            "content": "<p><div class='article-subtitle'>PATE A SEL MAISON, LES ETAPES</div>- Préparer <u>2 verres de farine</u>, <u>1 verre de sel fin</u> et <u>1 verre d’eau tiède</u>.<br>- Verser la farine, le sel et l’eau dans un récipient et mélanger à la cuillère.<br>- Une fois les ingrédients bien mélangés, continuer avec les mains.<br>- La pâte à sel doit former une boule de pâte bien souple et elle ne doit pas coller aux doigts. Vous pouvez rajouter un peu de farine si elle colle.<br>- Il est possible d’ajouter du colorant alimentaire (pensez à séparer la pâte si vous souhaitez plusieurs couleurs)<br>- Il est l’heure de passer à l’étape de modelage.<br>- Une fois le modèle terminé, mettre au four 1 heure (ou plus) à 100°.<br>- Quand l’objet a refroidi, il sera possible de le peindre.</p><p><div class='article-subtitle'>PATE A SEL SANS CUISSON, LES ETAPES</div>- 2 doses de farine<br>- 1 dose de sel<br>- 1 dose d’eau tiède<br>- 3 cuillères à soupe d’huile végétale<br><br>Laisser sécher 24h au moins après la création</p>"
+            "content": "<p><div class='article-subtitle'>PATE A SEL MAISON, LES ETAPES</div>- Préparer <u>2 verres de farine</u>, <u>1 verre de sel fin</u> et <u>1 verre d’eau tiède</u>.<br>- Verser la farine, le sel et l’eau dans un récipient et mélanger à la cuillère.<br>- Une fois les ingrédients bien mélangés, continuer avec les mains.<br>- La pâte à sel doit former une boule de pâte bien souple et elle ne doit pas coller aux doigts. Vous pouvez rajouter un peu de farine si elle colle.<br>- Il est possible d’ajouter du colorant alimentaire (pensez à séparer la pâte si vous souhaitez plusieurs couleurs)<br>- Il est l’heure de passer à l’étape de modelage.<br>- Une fois le modèle terminé, mettre au four 1 heure (ou plus) à 100°.<br>- Quand l’objet a refroidi, il sera possible de le peindre.</p><p><div class='article-subtitle'>PATE A SEL SANS CUISSON, LES ETAPES</div>- 2 doses de farine<br>- 1 dose de sel<br>- 1 dose d’eau tiède<br>- 3 cuillères à soupe d’huile végétale<br><br>Laisser sécher 24h au moins après la création</p>", 
+            "carousel": [
+                "img/motricite-fine/carousel/pate-a-sel-1.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-2.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-3.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-4.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-5.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-6.jpg"
+            ], 
+            "carousellink": [
+                "https://www.pinterest.fr/pin/249598004333973023", 
+                "https://www.pinterest.fr/pin/456763587209549114", 
+                "https://www.pinterest.fr/pin/375417318932194077", 
+                "#", 
+                "https://www.pinterest.fr/pin/113927065549297822", 
+                "https://www.pinterest.fr/pin/422986589984820556"
+            ], 
+            "carousel_title": "Exemples"
         }, 
         {
             "id": 2, 
@@ -26,7 +43,8 @@
             "carousel": [
                 "img/espace/carousel/tangram-1.jpg", 
                 "img/espace/carousel/tangram-2.jpg", 
-                "img/espace/carousel/tangram-3.png"
+                "img/espace/carousel/tangram-3.jpg", 
+                "img/espace/carousel/tangram-4.jpg"
             ], 
             "carousel_title": "Tangram et modèles"
         }, 
@@ -72,7 +90,11 @@
             "carousel": [
                 "img/schema-corporel/carousel/memo-mimes-1.jpg", 
                 "img/schema-corporel/carousel/memo-mimes-2.jpg", 
-                "img/schema-corporel/carousel/memo-mimes-3.jpg"
+                "img/schema-corporel/carousel/memo-mimes-3.jpg", 
+                "img/schema-corporel/carousel/memo-mimes-4.jpg", 
+                "img/schema-corporel/carousel/memo-mimes-5.jpg", 
+                "img/schema-corporel/carousel/memo-mimes-6.jpg", 
+                "img/schema-corporel/carousel/memo-mimes-7.jpg"
             ], 
             "carousel_title": "Sets de cartes"
         }, 
@@ -88,14 +110,16 @@
                 "img/tonus/carousel/meditation-2.jpg", 
                 "img/tonus/carousel/meditation-3.jpg", 
                 "img/tonus/carousel/meditation-4.jpg", 
-                "img/tonus/carousel/meditation-5.jpg"
+                "img/tonus/carousel/meditation-5.jpg", 
+                "img/tonus/carousel/meditation-6.jpg"
             ], 
             "carousellink": [
                 "https://www.youtube.com/watch?v=WnxOoifQ398", 
                 "https://www.youtube.com/watch?v=CWRAe2b_ZhI", 
                 "https://youtu.be/Hz_0gKnRMkk", 
                 "https://www.youtube.com/watch?v=7cDYebXHs7o&feature=youtu.be", 
-                "https://youtu.be/wlr9C_UgOBs"
+                "https://youtu.be/wlr9C_UgOBs", 
+                "https://www.youtube.com/watch?v=FpOMpyf4PcE"
             ], 
             "carousel_title": "Méditations"
         }, 
@@ -141,7 +165,8 @@
             "carousel": [
                 "img/espace/carousel/tangram-1.jpg", 
                 "img/espace/carousel/tangram-2.jpg", 
-                "img/espace/carousel/tangram-3.png"
+                "img/espace/carousel/tangram-3.jpg", 
+                "img/espace/carousel/tangram-4.jpg"
             ], 
             "carousel_title": "Tangram et modèles"
         }
