@@ -137,7 +137,25 @@
             "title": "Pâte à Modeler", 
             "background": "img/motricite-fine/pate-a-modeler.jpg", 
             "illustration": "img/motricite-fine/pate-a-modeler-illustration.jpg",
-            "content": "<p><div class='article-subtitle'>PATE A MODELER, LES INGREDIENTS</div>- 1 tasse de farine<br>- ½ tasse de sel<br>- 1 cuillère à café d’huile végétale<br>- 2 cuillères à café de bicarbonate de soude ou de levure chimique<br>- 1 tasse d’eau chaude<br>- Colorant alimentaire</p><p><div class='article-subtitle'>PATE A MODELER, LA RECETTE</div>- Verser la farine, le sel et le bicarbonate dans un grand bol ou dans la casserole et mélanger. Ajouter éventuellement les colorants en poudre.<br>- Ajouter l’eau et l’huile en remuant vigoureusement pour éviter les grumeaux. Ajouter éventuellement les colorants liquides.<br>- Verser le mélange dans une casserole et mettre la casserole sur un feu doux sans cesser de remuer jusqu'à ce que la pâte commence à se décoller.<br>- Retirer du feu et pétrir la pâte sur table avec les mains. La pâte à modeler est terminée lorsqu'elle est bien souple et la couleur uniforme.</p>"
+            "content": "<p><div class='article-subtitle'>PATE A MODELER, LES INGREDIENTS</div>- 1 tasse de farine<br>- ½ tasse de sel<br>- 1 cuillère à café d’huile végétale<br>- 2 cuillères à café de bicarbonate de soude ou de levure chimique<br>- 1 tasse d’eau chaude<br>- Colorant alimentaire</p><p><div class='article-subtitle'>PATE A MODELER, LA RECETTE</div>- Verser la farine, le sel et le bicarbonate dans un grand bol ou dans la casserole et mélanger. Ajouter éventuellement les colorants en poudre.<br>- Ajouter l’eau et l’huile en remuant vigoureusement pour éviter les grumeaux. Ajouter éventuellement les colorants liquides.<br>- Verser le mélange dans une casserole et mettre la casserole sur un feu doux sans cesser de remuer jusqu'à ce que la pâte commence à se décoller.<br>- Retirer du feu et pétrir la pâte sur table avec les mains. La pâte à modeler est terminée lorsqu'elle est bien souple et la couleur uniforme.</p>", 
+            "carousel": [
+                "img/motricite-fine/carousel/pate-a-modeler-1.jpg", 
+                "img/motricite-fine/carousel/pate-a-modeler-2.jpg", 
+                "img/motricite-fine/carousel/pate-a-modeler-3.jpg", 
+                "img/motricite-fine/carousel/pate-a-modeler-4.jpg", 
+                "img/motricite-fine/carousel/pate-a-modeler-5.jpg", 
+                "img/motricite-fine/carousel/pate-a-modeler-6.jpg", 
+                "img/motricite-fine/carousel/pate-a-modeler-7.jpg"
+            ], 
+            "carousellink": [
+                "https://www.pinterest.fr/pin/249598004333973023", 
+                "https://www.pinterest.fr/pin/456763587209549114", 
+                "https://www.pinterest.fr/pin/375417318932194077", 
+                "#", 
+                "https://www.pinterest.fr/pin/113927065549297822", 
+                "https://www.pinterest.fr/pin/422986589984820556"
+            ], 
+            "carousel_title": "Exemples"
         }, 
         {
             "id": 11, 
@@ -145,7 +163,24 @@
             "title": "Pâte à Sel Maison", 
             "background": "img/motricite-fine/pate-a-sel.jpg", 
             "illustration": "img/motricite-fine/pate-a-sel-illustration.png",
-            "content": "<p><div class='article-subtitle'>PATE A SEL MAISON, LES ETAPES</div>- Préparer <u>2 verres de farine</u>, <u>1 verre de sel fin</u> et <u>1 verre d’eau tiède</u>.<br>- Verser la farine, le sel et l’eau dans un récipient et mélanger à la cuillère.<br>- Une fois les ingrédients bien mélangés, continuer avec les mains.<br>- La pâte à sel doit former une boule de pâte bien souple et elle ne doit pas coller aux doigts. Vous pouvez rajouter un peu de farine si elle colle.<br>- Il est possible d’ajouter du colorant alimentaire (pensez à séparer la pâte si vous souhaitez plusieurs couleurs)<br>- Il est l’heure de passer à l’étape de modelage.<br>- Une fois le modèle terminé, mettre au four 1 heure (ou plus) à 100°.<br>- Quand l’objet a refroidi, il sera possible de le peindre.</p><p><div class='article-subtitle'>PATE A SEL SANS CUISSON, LES ETAPES</div>- 2 doses de farine<br>- 1 dose de sel<br>- 1 dose d’eau tiède<br>- 3 cuillères à soupe d’huile végétale<br><br>Laisser sécher 24h au moins après la création</p>"
+            "content": "<p><div class='article-subtitle'>PATE A SEL MAISON, LES ETAPES</div>- Préparer <u>2 verres de farine</u>, <u>1 verre de sel fin</u> et <u>1 verre d’eau tiède</u>.<br>- Verser la farine, le sel et l’eau dans un récipient et mélanger à la cuillère.<br>- Une fois les ingrédients bien mélangés, continuer avec les mains.<br>- La pâte à sel doit former une boule de pâte bien souple et elle ne doit pas coller aux doigts. Vous pouvez rajouter un peu de farine si elle colle.<br>- Il est possible d’ajouter du colorant alimentaire (pensez à séparer la pâte si vous souhaitez plusieurs couleurs)<br>- Il est l’heure de passer à l’étape de modelage.<br>- Une fois le modèle terminé, mettre au four 1 heure (ou plus) à 100°.<br>- Quand l’objet a refroidi, il sera possible de le peindre.</p><p><div class='article-subtitle'>PATE A SEL SANS CUISSON, LES ETAPES</div>- 2 doses de farine<br>- 1 dose de sel<br>- 1 dose d’eau tiède<br>- 3 cuillères à soupe d’huile végétale<br><br>Laisser sécher 24h au moins après la création</p>", 
+            "carousel": [
+                "img/motricite-fine/carousel/pate-a-sel-1.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-2.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-3.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-4.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-5.jpg", 
+                "img/motricite-fine/carousel/pate-a-sel-6.jpg"
+            ], 
+            "carousellink": [
+                "https://www.pinterest.fr/pin/249598004333973023", 
+                "https://www.pinterest.fr/pin/456763587209549114", 
+                "https://www.pinterest.fr/pin/375417318932194077", 
+                "#", 
+                "https://www.pinterest.fr/pin/113927065549297822", 
+                "https://www.pinterest.fr/pin/422986589984820556"
+            ], 
+            "carousel_title": "Exemples"
         }, 
         {
             "id": 12, 
