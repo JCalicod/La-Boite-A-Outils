@@ -260,6 +260,26 @@
                 "img/sensorialite/carousel/bulles-savon-2.jpg"
             ], 
             "carousel_title": "Illustrations"
+        }, 
+        {
+            "id": 17, 
+            "category_id": "MG", 
+            "title": "Parcours Moteur", 
+            "background": "img/motricite-globale/parcours-moteur.jpg", 
+            "illustration": "img/motricite-globale/parcours-moteur.jpg",
+            "content": "<p><div class='article-subtitle'>DEFINITION</div>Le parcours moteur est un bon moyen de proposer à l’enfant un ensemble d’activités qui développent les capacités motrices de l’enfant de manière ludique. Vous pouvez diversifier les propositions et modifier le parcours chaque fois que vous le proposerez, en fonction des goûts de l’enfant, ses capacités et du matériel à disposition. Pour conserver l’aspect ludique, il est possible d’y greffer un imaginaire (espion, pirates, aventurier) et d’y ajouter un but.<br><br>Prenez bien soin d’ajuster le parcours aux capacités de votre enfant : il est parfois difficile, par exemple, de suivre deux consignes en même temps. Avant le début du parcours, il est important de poser des règles et d’expliquer à l’enfant comment il doit franchir l’obstacle. Les règles pourront être modulées au fur et à mesure du parcours afin de l’adapter aux capacités de l’enfant.</p><p><div class='article-subtitle'>ELEMENTS A INCLURE</div>- Tir de ballon avec le pied ou les mains dans une cible (adresse)<br>- Marcher sur une corde un pied devant l’autre (équilibre)<br>- Cerceaux : sauter les pieds joints, cloche pieds, alterner (équilibre)<br> - Chaise : passer sous la chaise ou sur la chaise (4 pattes, coordinations ou équilibre)<br> - Roulade dans un lit, un canapé, ou sur un matelas (coordinations)<br>-Bassines : en les retournant, elles peuvent devenir des poutres (équilibre). La bassine peut également devenir une cible dans laquelle lancer les balles.<br>- Coussins, peluches : franchir un tas de coussins et de peluches. Marcher sur des coussins de tailles, de volumes et de textures différentes. (équilibre)<br>- Chamboule tout (adresse)<br>- Scotch ou cordes accrochées aux murs : l’enfant doit passer entre les obstacles sans les toucher (équilibre et précision motrice)<br>- Echasses (équilibre)<br>- Labyrinthe à traverser avec un ballon, à fabriquer avec du scotch ou même de la craie</p><p><div class='article-subtitle'>DIFFERENTS OBJETS POSABLES</div>- Contrainte de temps : faire le parcours un certain nombre de fois le plus vite possible (chronométrer).<br>- Aller chercher des objets et les ramener en passant par le parcours. Le premier qui a ramené tous les objets a gagné.<br>- Ajouter une difficulté à chaque tour : tenir un objet en équilibre sur une partie du corps, faire le parcours en marche arrière.<br>- Une personne se tient à la fin du parcours, yeux bandés, et place un objet derrière lui. L’enfant doit traverser le parcours sans faire de bruit et réussir à lui voler l’objet sans se faire attraper. Cela l’incitera à s’appliquer sur chaque mouvement qu’il devra réaliser.<br>- Faire le parcours sans laisser tomber un ballon de baudruche.<br><br>Attention, malgré la précipitation, il faut que l’enfant franchisse tous les obstacles correctement pour réussir. Prenez garde également aux chutes dues à cette précipitation.</p><p><div class='article-subtitle'>LE PETIT +</div>Valoriser la réussite, accompagner l’enfant sur le parcours. L’encourager. Faire avec lui. Lui permettre de réessayer pour ne pas terminer sur un échec. </p>",
+            "carousel": [
+                "img/motricite-globale/carousel/parcours-moteur-1.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-2.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-3.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-4.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-5.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-6.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-7.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-8.jpg", 
+                "img/motricite-globale/carousel/parcours-moteur-9.jpg"
+            ],
+            "carousel_title": "Idées et parcours"
         }
     ]
 }
