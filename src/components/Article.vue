@@ -21,18 +21,43 @@
                 </div>
             </div>
             <div v-if="article.carousel">
+                <hr class="my-4">
                 <div class="article-subtitle text-center mt-5">{{ article.carousel_title }}</div>
                 <div class="carousel">
                     <div class="carousel-img display-flex">
-                        <a v-if="article.carousellink" v-bind:href="article.carousellink[carouselPos]" target="_blank">
-                            <img :src="article.carousel[carouselPos]">
+                        <a v-if="article.carousellink" v-bind:href="article.carousellink[carouselPos]" class="text-center" target="_blank">
+                            <img :src="article.carousel[carouselPos]"><br>
+                            <p v-if="article.carousel_text">{{ article.carousel_text[carouselPos] }}</p>
                         </a>
-                        <a v-else href="#">
-                            <img :src="article.carousel[carouselPos]">
+                        <a v-else href="#" class="text-center">
+                            <img :src="article.carousel[carouselPos]"><br>
+                            <p v-if="article.carousel_text && article.carousel_text[carouselPos].length > 0">{{ article.carousel_text[carouselPos] }}</p>
                         </a>
                     </div>
                     <div class="previous" @click="previous(article.carousel)">‹</div>
                     <div class="next" @click="next(article.carousel)">›</div>
+                </div>
+            </div>
+            <div v-if="article.content2">
+                <hr class="my-4">
+                <div class="display-flex mt-5" v-if="article.content2">
+                    <div class="content">
+                        <div class="article-content" v-html="article.content2"></div>
+                    </div>
+                    <div class="illustration">
+                        <img :src="article.illustration2" :alt="article.title">
+                    </div>
+                </div>
+            </div>
+            <div v-if="article.content3">
+                <hr class="my-4">
+                <div class="display-flex mt-5" v-if="article.content3">
+                    <div class="illustration">
+                        <img :src="article.illustration3" :alt="article.title">
+                    </div>
+                    <div class="content">
+                        <div class="article-content" v-html="article.content3"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -181,10 +206,11 @@ export default {
         border-top-color: currentcolor;
         border-top-style: none;
         border-top-width: 0px;
-        border-top: 1px solid rgba(0,0,0,.1);
+        border-top: 1px solid #aec6cf;
         box-sizing: content-box;
         height: 0;
         overflow: visible;
+        margin: 50px !important;
     }
 
     .display-flex {
@@ -222,6 +248,7 @@ export default {
         background-repeat: no-repeat !important;
         background-position: center !important;
         position: relative;
+        margin-bottom: 60px;
     }
 
     .carousel .carousel-img {
@@ -229,12 +256,23 @@ export default {
     }
 
     .carousel .carousel-img a {
+        text-decoration: none;
+        color: #565656;
         margin: auto;
     }
+
+    .carousel .carousel-img a p {
+        width: 450px;
+        background-color: #fff3d5;
+        border-radius: 5px;
+        padding: 5px;
+    }
+    
 
     .carousel .carousel-img img {
         max-width: 500px;
         max-height: 450px;
+        border: 2px solid #565656;
     }
 
     .carousel .previous, .carousel .next {
