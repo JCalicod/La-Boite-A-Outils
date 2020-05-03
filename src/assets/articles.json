@@ -247,6 +247,19 @@
             "background": "img/espace/cache-objet.jpg", 
             "illustration": "img/espace/cache-objet-illustration.jpg",
             "content": "<p><div class='article-subtitle'>REGLES DU JEU</div>Vous aurez besoin de 5 objets de taille moyenne, c’est-à-dire pas trop gros pour qu’il soit possible de les cacher, ni trop petits afin qu’ils ne soient pas trop difficiles à trouver.<br>Montrez-les à l’enfant afin qu’il les mémorise.<br>Demandez à l’enfant de s’asseoir dans la salle et d’observer.<br>Cachez devant lui chacun des objets à différents endroits de la pièce.<br>Le but de l’enfant sera alors de retrouver les différents objets sans en oublier.<br>S’il se trouve en difficulté, vous pouvez l’orienter. (à droite, devant, à côté de…)<br></p><p><div class='article-subtitle'>POUR PLUS DE DIFFICULTES</div>- Augmentez le nombre d’objets<br>- Demandez à l’enfant de retrouver les objets dans l’ordre où vous les avez cachés<br>- Demandez à l’enfant de fermer les yeux pendant que vous cachez les objets. Deux possibilités ensuite : L’enfant devra retrouver les objets grâce à ce qu’il aura mémorisé, ou bien, il se laissera guider pour les retrouver.<br>- Si l’enfant a fermé les yeux, vous pouvez également représenter sur un plan les différents endroits où sont cachés les objets.<br>- Vous pouvez ajouter une contrainte de temps</p><p><div class='article-subtitle'>A QUOI CA SERT</div>Tout d’abord, cet exercice travaille la mémorisation. L’enfant doit mémoriser à la fois les différents objets à trouver, mais aussi les lieux où ils sont cachés.<br>Il doit également faire preuve d’orientation spatiale pour retrouver ces objets.<br>L’exercice nécessite de la concentration de la part de l’enfant.<br>Les indices pour orienter l’enfant lui permettent d’intégrer les différentes notions qui concernent l’espace.</p><p><div class='article-subtitle'>LE PETIT +</div>Vous pouvez inverser les rôles à tout moment. Cela amènera l’enfant à se responsabiliser. En lui demandant de vous guider, vous lui permettrez d’approfondir les notions spatiales et de mettre à l’épreuve son orientation et sa capacité de projection (se mettre à la place de l’autre).</p>"
+        }, 
+        {
+            "id": 16, 
+            "category_id": "Sensorialite", 
+            "title": "Bulles de savon géantes", 
+            "background": "img/sensorialite/bulles-savon.jpg",
+            "illustration": "img/sensorialite/bulles-savon-illustration.jpg",
+            "content": "<p><div class='article-subtitle'>INSTRUCTIONS</div>Les bulles de savon sont un moyen d’offrir à l’enfant des stimulations à la fois visuelles mais aussi tactiles lorsque l’enfant tente de les toucher.<br><br>Dans un récipient, versez :<br>— 200 ml d'eau.<br>— 50 ml de liquide vaisselle.<br>— 2 cuillères de sucre.<br>— 1 cuillère de fécule de maïs (Maïzena).<br><br>Mélangez bien pour obtenir un mélange homogène. Découpez le milieu d'une bouteille en plastique. Vous pouvez aussi utiliser un entonnoir. Allez dehors et trempez la bouteille dans le savon. Soufflez doucement, mais en continu pour faire une bulle géante.<br><br>Il est également possible de réaliser un souffleur à bulles à l’aide d’une demie bouteille en plastique (le haut de la bouteille), un vieux gant de toilette et un élastique.<br>- Posez la bouteille sur le gant.<br>- Tracez le contour de la bouteille sur ce gant en laissant une marge de 3 cm entre le tracé et la bouteille.<br>- Découpez le gant de toilette le long du trait.<br>- Attachez le morceau découpé à la bouteille à l’aide de l’élastique.<br>- Plongez le gant attaché dans le mélange que vous avez préalablement préparé.<br>Il ne reste plus qu’à souffler dans le goulot !</p>", 
+            "carousel": [
+                "img/sensorialite/carousel/bulles-savon-1.jpg", 
+                "img/sensorialite/carousel/bulles-savon-2.jpg"
+            ], 
+            "carousel_title": "Illustrations"
         }
     ]
 }
