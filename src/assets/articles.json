@@ -204,6 +204,41 @@
                 "img/espace/carousel/tangram-4.jpg"
             ], 
             "carousel_title": "Tangram et modèles"
+        }, 
+        {
+            "id": 14, 
+            "category_id": "MF", 
+            "title": "Les Lacets", 
+            "background": "img/motricite-fine/lacets.jpg", 
+            "illustration": "img/motricite-fine/lacets.jpg",
+            "illustration2": "img/motricite-fine/illustration-lacets-2.jpg",
+            "illustration3": "img/motricite-fine/illustration-lacets-3.jpg",
+            "content": "<p><div class='article-subtitle'>APPRENDRE A LACER</div>Lacer ses chaussures nécessite un apprentissage que l’on ne prend pas toujours le temps d’aborder. Pour permettre à l’enfant d’apprendre le laçage, il est possible de fabriquer une chaussure en carton en grand format. Le laçage demandera donc moins de précision que sur une chaussure ce qui permettra à l’enfant de se focaliser sur les étapes et d’intégrer le geste. Voici donc les étapes de la fabrication d’une chaussure en carton.</p><p><div class='article-subtitle'>MATERIEL</div>- Un carton<br>- Un feutre<br>- Un cutter<br>- Un lacet</p>", 
+            "content2": "<p><div class='article-subtitle'>PLUS FACILE ET PLUS LIBRE</div>Des figures en formes d’animaux (en carton ou en bois, si vous avez l’âme d’un bricoleur) permettent à l’enfant d’expérimenter le laçage librement afin de s’approprier le geste. Vous pouvez également y ajouter des contraintes une fois que l’enfant aura pris le temps de découvrir cette activité. Par exemple, vous pouvez lui demander de passer le lacet dans chaque trou sans en oublier un seul. Cela mettra en jeu sa capacité d’organisation spatiale.</p>",
+            "content3": "<p><div class='article-subtitle'>APPRENDRE LES LETTRES AUTREMENT</div>Vous pouvez également fabriquer des patrons en formes de lettres. Manipuler les lettres de différentes manières permet à l’enfant de se les approprier et l’initie à la lecture et à l’écriture.</p>",
+            "carousel": [
+                "img/motricite-fine/carousel/lacets-1.jpg", 
+                "img/motricite-fine/carousel/lacets-2.jpg", 
+                "img/motricite-fine/carousel/lacets-3.jpg", 
+                "img/motricite-fine/carousel/lacets-4.jpg", 
+                "img/motricite-fine/carousel/lacets-5.jpg", 
+                "img/motricite-fine/carousel/lacets-6.jpg", 
+                "img/motricite-fine/carousel/lacets-7.jpg", 
+                "img/motricite-fine/carousel/lacets-8.jpg", 
+                "img/motricite-fine/carousel/lacets-9.jpg"
+            ], 
+            "carousel_text": [
+                "",
+                "Tracez la forme d’une chaussure sur le carton", 
+                "Percez des trous à l’aide d’un crayon afin de pouvoir y glisser le lacet.", 
+                "Passez le lacet dans les deux premiers trous pour aider l’enfant si nécessaire. Pensez à croiser le lacet derrière le carton.", 
+                "Passez le lacet dans les deux premiers trous pour aider l’enfant si nécessaire. Pensez à croiser le lacet derrière le carton. ", 
+                "L’objectif, dans un premier temps, sera de lacer de manière régulière. Si besoin, tracez sur le carton le passage des lacets afin de donner des repères à l’enfant. Attirez son attention, si possible, sur l’ordre du passage des lacets.", 
+                "Ensuite, l’enfant doit réaliser un nœud en croisant les lacets et en faisant passer un lacet sous l’autre.", 
+                "Pour réaliser la cocarde, il doit former une boucle avec chaque lacet.", 
+                "Après avoir croisé les deux boucles, l’une passe sous l’autre. Le serrage se fait en tirant sur les deux boucles."
+            ],
+            "carousel_title": "Etapes"
         }
     ]
 }
