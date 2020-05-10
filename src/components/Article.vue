@@ -60,6 +60,39 @@
                     </div>
                 </div>
             </div>
+            <div v-if="article.content4">
+                <hr class="my-4">
+                <div class="display-flex mt-5" v-if="article.content4">
+                    <div class="content">
+                        <div class="article-content" v-html="article.content4"></div>
+                    </div>
+                    <div class="illustration">
+                        <img :src="article.illustration4" :alt="article.title">
+                    </div>
+                </div>
+            </div>
+             <div v-if="article.content5">
+                <hr class="my-4">
+                <div class="display-flex mt-5" v-if="article.content5">
+                    <div class="illustration">
+                        <img :src="article.illustration5" :alt="article.title">
+                    </div>
+                    <div class="content">
+                        <div class="article-content" v-html="article.content5"></div>
+                    </div>
+                </div>
+            </div>
+            <div v-if="article.content6">
+                <hr class="my-4">
+                <div class="display-flex mt-5" v-if="article.content6">
+                    <div class="content">
+                        <div class="article-content" v-html="article.content6"></div>
+                    </div>
+                    <div class="illustration">
+                        <img :src="article.illustration6" :alt="article.title">
+                    </div>
+                </div>
+            </div>
         </div>
         </section>
   </div>
