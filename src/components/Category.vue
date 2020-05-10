@@ -28,6 +28,9 @@
             </router-link>
           </div>
         </div>
+        <div v-if="category.id == 'Home'" class="avenir">
+            Activités à venir..
+        </div>
       </div>
     </section>
   </div>
@@ -159,6 +162,13 @@ export default {
         flex-wrap: wrap;
         margin-right: -15px;
         margin-left: -15px;
+    }
+
+    .avenir {
+        text-align: center;
+        font-size: 20px;
+        margin-top: 30px;
+        font-style: italic;
     }
 
     @media screen and (min-width: 768px) {
