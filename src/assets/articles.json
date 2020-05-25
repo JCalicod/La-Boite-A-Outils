@@ -298,6 +298,27 @@
             "content4": "<p><div class='article-subtitle'>LES CHAUSSETTES EN EQUILIBRE</div>Ce jeu travaille la précision du mouvement et l’équilibre. Vous aurez besoin d’une cuillère et d’une paire de chaussette roulée pour chaque joueur.<br>Posez la paire de chaussettes sur la cuillère et tenez cette cuillère par le manche avec la main ou (pus dur !) avec la bouche. Le premier qui fait tomber la paire de chaussettes a perdu ! <br><br><b>Vous pouvez ajouter différentes règles :</b><br>- Traverser la salle le plus vite possible.<br>- Passer des obstacles : par exemple, vous pouvez installer 2 chaises face à face et poser un balai par-dessus. Il s’agira alors de passer au-dessus ou par-dessous. <br><br>Il est également possible d’ajouter des contraintes : en marche arrière, à 4 pattes, en levant les genoux …</p>",
             "content5": "<p><div class='article-subtitle'>LA CATAPULTE</div><b>Matériel :</b><br>- Une bassine<br>- Une planche en carton ou un ancien calendrier en carton<br>- 2 paires de chaussettes<br><br><b>Jeu :</b><br>Posez bassine retournée à terre. Posez la planche sur la bassine de manière à ce qu’un bord dépasse plus que l’autre. Placez la paire de chaussettes sur la planche du côté où le bord ne dépasse pas.<br>L’enfant se place devant la planche, du côté du bord qui dépasse. Il pose son pied sur le rebord de la planche et appuie d’un coup sec de manière à ce que la paire de chaussette décolle de la planche. L’objectif est alors de réussir à rattraper cette paire de chaussette avec les mains. <br><br>Pour plus de difficulté, l’enfant peut tenter de rattraper 2 paires en même temps.</p>",
             "content6": "<p><div class='article-subtitle'>LE VISE-CHAUSSETTE</div><b>Préparation :</b><br>Prenez un carton ou un journal.<br>Dans le carton, faites un trou assez large pour que l’enfant puisse viser. Vous poserez le carton sur une chaise ou une table afin qu’il soit à la hauteur de l’enfant.<br>Dans le journal, vous pouvez réaliser 1 ou plieurs trous. Vous accrocherez le journal entre deux murs ou même sur un mur. Il est également possible de dessiner des cercles (bien voyants) sur le journal et d’attribuer à chaque cercles un chiffre qui correspondra au nombre de points gagnés si l’enfant parvient à y lancer la paire de chaussettes. <br><br><b>Le jeu :</b><br>L’objectif est de mettre le plus grand nombre de paire de chaussettes dans le ou les trous en les lançant. N’hésitez pas à ajouter des règles (sur un pied, de plus loin, en changeant de main).<br><br><b>Astuce :</b><br>Si la cible est plus haute que l’enfant, invitez-le à réaliser un mouvement du bas vers le haut pour lancer (en cloche).</p>"
+        },
+        {
+            "id": 19, 
+            "category_id": "MF", 
+            "title": "La pâte fimo", 
+            "background": "img/motricite-fine/fimo.jpg", 
+            "illustration": "img/motricite-fine/illustration-fimo.jpg",
+            "content": "<p>La pâte fimo est une pâte qui permet de faire de nombreuses figurines plus ou moins grandes. Cette activité est donc basée sur la créativité, mais aussi la motricité fine et la précision.<br>Voici comment vous pouvez en fabriquer avec des ingrédients que vous trouverez sûrement dans votre placard.<div class='article-subtitle'>Ingrédients</div>- Maïzena<br>- Bicarbonate de soude<br>- Eau<br>- Colorant alimentaire<div class='article-subtitle'>Recette</div>- Dans une casserole, mélangez une dose de maïzena avec 2 doses de bicarbonate de soude.<br>- Délayez le tout avec une dose d’eau.<br>- Ajoutez le colorant.<br>- Faites chauffer sur feu doux et laissez l’eau s’évaporer, tout en remuant avec une spatule en bois.<br>- Lorsque le mélange se détache de la paroi, cela veut dire qu’il a assez chauffé.<br>- Avec la spatule, transvasez la pâte dans un bol et laissez-là refroidir quelques minutes.<div class='article-subtitle'>Utilisation</div>Il s’agit d’une pâte autodurcissante. Vous n’avez donc pas besoin de mettre la création au four, elle séchera d’elle-même à l’air libre au bout de 24 à 48h selon la taille de l’objet. Pensez à retourner régulièrement les créations pendant le séchage afin que celui-ci se fasse de façon homogène.<br>Le surplus de pâte peut être conservé durant plusieurs semaines dans une boîte hermétique, comme un tupperware.<br>Vous pouvez réaliser la pâte sans colorant et peindre la création une fois qu’elle est sèche.<br>Petite astuce : Travailler avec un cure-dent peut permettre d’ajouter des petits détails sur les créations.</p>", 
+            "carousel": [
+                "img/motricite-fine/carousel/fimo-1.jpg", 
+                "img/motricite-fine/carousel/fimo-2.jpg", 
+                "img/motricite-fine/carousel/fimo-3.jpg", 
+                "img/motricite-fine/carousel/fimo-4.jpg", 
+                "img/motricite-fine/carousel/fimo-5.jpg", 
+                "img/motricite-fine/carousel/fimo-6.jpg", 
+                "img/motricite-fine/carousel/fimo-7.jpg", 
+                "img/motricite-fine/carousel/fimo-8.jpg", 
+                "img/motricite-fine/carousel/fimo-9.jpg",
+                "img/motricite-fine/carousel/fimo-10.jpg"
+            ],
+            "carousel_title": "Quelques idées de création"
         }
     ]
 }
