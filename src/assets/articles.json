@@ -319,6 +319,14 @@
                 "img/motricite-fine/carousel/fimo-10.jpg"
             ],
             "carousel_title": "Quelques idées de création"
+        }, 
+        {
+            "id": 20, 
+            "category_id": "Espace", 
+            "title": "Puzzle", 
+            "background": "img/espace/fimo.jpg", 
+            "illustration": "img/espace/puzzle-illustration.jpg",
+            "content": "<p>Les puzzles permettent d’aborder l’orientation et l’organisation spatiale tout en travaillant la concentration. En voici 3 types.<br><br>- Le premier est plus facile et accessible aux plus jeunes. Il s’agit de faire correspondre les couleurs entre elles de manière à reconstituer les formes et à combler les trous.  On peut y ajouter des difficultés en ajoutant des pièces à placer ainsi que des pièces « pièges ». Il est possible de créer son puzzle soi-même avec des gommettes ou en dessinant.<br><br><div style='width: 100%; text-align: center;'><a href='downloads/espace/puzzle-1.pdf' target='_blank' alt='pdf'>Télécharger le PDF<br><img src='img/espace/puzzle-exemple-1.jpg' style='height: 200px;' alt='puzzle'></a></div><br><br>-  Le deuxième est basé sur le même principe : faire correspondre les couleurs entre elles. Plus il y a d’éléments et plus le puzzle est difficile. Il est également possible d’ajouter des pièces « piège ».<br><br><div style='width: 100%; text-align: center;'><a href='downloads/espace/puzzle-2.pdf' target='_blank' alt='pdf'>Télécharger le PDF<br><img src='img/espace/puzzle-exemple-2.jpg' style='height: 200px;' alt='puzzle'></a></div><br><br>- Le troisième est plus difficile. Il s’agit de placer les différentes pièces (en bas de la page) de manière à reproduire la forme représentée sur les différents modèles.<br><br><div style='width: 100%; text-align: center;'><a href='downloads/espace/puzzle-3.pdf' target='_blank' alt='pdf'>Télécharger le PDF<br><img src='img/espace/puzzle-exemple-3.jpg' style='height: 200px;' alt='puzzle'></a></div></p>"
         }
     ]
 }
