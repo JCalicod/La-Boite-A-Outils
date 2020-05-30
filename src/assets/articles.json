@@ -324,9 +324,17 @@
             "id": 20, 
             "category_id": "Espace", 
             "title": "Puzzle", 
-            "background": "img/espace/fimo.jpg", 
+            "background": "img/espace/puzzle.jpg", 
             "illustration": "img/espace/puzzle-illustration.jpg",
             "content": "<p>Les puzzles permettent d’aborder l’orientation et l’organisation spatiale tout en travaillant la concentration. En voici 3 types.<br><br>- Le premier est plus facile et accessible aux plus jeunes. Il s’agit de faire correspondre les couleurs entre elles de manière à reconstituer les formes et à combler les trous.  On peut y ajouter des difficultés en ajoutant des pièces à placer ainsi que des pièces « pièges ». Il est possible de créer son puzzle soi-même avec des gommettes ou en dessinant.<br><br><div style='width: 100%; text-align: center;'><a href='downloads/espace/puzzle-1.pdf' target='_blank' alt='pdf'>Télécharger le PDF<br><img src='img/espace/puzzle-exemple-1.jpg' style='height: 200px;' alt='puzzle'></a></div><br><br>-  Le deuxième est basé sur le même principe : faire correspondre les couleurs entre elles. Plus il y a d’éléments et plus le puzzle est difficile. Il est également possible d’ajouter des pièces « piège ».<br><br><div style='width: 100%; text-align: center;'><a href='downloads/espace/puzzle-2.pdf' target='_blank' alt='pdf'>Télécharger le PDF<br><img src='img/espace/puzzle-exemple-2.jpg' style='height: 200px;' alt='puzzle'></a></div><br><br>- Le troisième est plus difficile. Il s’agit de placer les différentes pièces (en bas de la page) de manière à reproduire la forme représentée sur les différents modèles.<br><br><div style='width: 100%; text-align: center;'><a href='downloads/espace/puzzle-3.pdf' target='_blank' alt='pdf'>Télécharger le PDF<br><img src='img/espace/puzzle-exemple-3.jpg' style='height: 200px;' alt='puzzle'></a></div></p>"
+        }, 
+        {
+            "id": 21, 
+            "category_id": "Temps", 
+            "title": "Les petites histoires", 
+            "background": "img/temps/petites-histoires.jpg", 
+            "illustration": "img/temps/petites-histoires-illustration.jpg", 
+            "content": "<p>Les histoires sont un bon moyen de retrouver le calme et de s’échapper de tous les petits tracas du quotidien.<br>Voici quelques histoires que vous pouvez écouter ou lire avec votre enfant.<br>Vous trouverez en dessous de chaque histoire une série d’images liées à ce qui a été raconté.<br>Il s’agira alors de demander à l’enfant de choisir les images qui correspondent à l’histoire qu’il a écouté et de les remettre dans l’ordre afin de raconter l’histoire à sa façon.<br>Il est également possible de reprendre des histoires connues par l’enfant et de fabriquer soi-même ses cartes.<div class='article-subtitle'>Les histoires</div><a href='https://une-histoire-chaque-jour.com/toutes-nos-histoires-pour-enfants/'>Retrouver toutes les histoires</a><br><br><a href='downloads/temps/petites-histoires-1.pdf'>Eliott et le petit hibou<br><img src='img/temps/petites-histoires-exemple-1.jpg' alt='image' style='max-height: 200px;'></a><br><br><a href='downloads/temps/petites-histoires-2.pdf'>La poêle magique<br><img src='img/temps/petites-histoires-exemple-2.jpg' alt='image' style='max-height: 200px;'></a><br><br><a href='downloads/temps/petites-histoires-3.pdf'>Arthur n'aime pas les haricots<br><img src='img/temps/petites-histoires-exemple-3.jpg' alt='image' style='max-height: 200px;'></a><br><br><a href='downloads/temps/petites-histoires.pdf'>Découvrir d'autres histoires</a></p>"
         }
     ]
 }
